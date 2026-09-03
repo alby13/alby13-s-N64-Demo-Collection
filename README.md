@@ -4,6 +4,8 @@ Random, Short N64 Demo ROMS
 <b>Note: You will find each rom in their own folder</b>
 
 ## N64 3 Types of Audio Demo ROM:
+9/3/2026
+
 A simple music player with a cool mouse cursor that can be moved like Super Mario 64.
 
 ![Music Audio Player](/audio-player/n64-audio-demo.jpg)
@@ -17,6 +19,8 @@ Note: This demo was loosely created, it has some bugs including flickering and s
 <br>
 
 ## N64 WRITER - A Notepad / Wordpad / Word ROM
+9/3/2026
+
 A decent typing writer program that lets you create new documents, open documents from a Memory Pak, and save documents to a Memory Pak. Typing happens in the RAM, and then save files create **Controller Pak notes**. Sci-fi terminal HUD (dark navy,
 cyan rules, amber caret) — a 64DD-style editor.
 
