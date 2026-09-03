@@ -1,5 +1,7 @@
-# alby13's-N64-Demo-Collection
+# alby13's N64 Demo ROM Collection
 Random, Short N64 Demo ROMS
+
+<b>Note: You will find each rom in their own folder</b>
 
 ## N64 3 Types of Audio Demo ROM:
 A simple music player with a cool mouse cursor that can be moved like Super Mario 64.
