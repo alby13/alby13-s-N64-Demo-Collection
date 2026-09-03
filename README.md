@@ -6,6 +6,8 @@ Random, Short N64 Demo ROMS
 ## N64 3 Types of Audio Demo ROM:
 A simple music player with a cool mouse cursor that can be moved like Super Mario 64.
 
+![Music Audio Player](/audio-player/n64-audio-demo.jpg)
+
 It showcases the 3 different types of music that the N64 can do:
 Sequencing MIDI, Streaming PCM, MOD/XM
 
